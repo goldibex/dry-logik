@@ -1,0 +1,6 @@
+- name: s3
+  description: s3 configuration parameters
+  fields:
+    - name: access_key
+      description: AWS access key ID
+      type: string
